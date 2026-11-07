@@ -9,7 +9,7 @@ EMB,T2,1,-3,23,Es la placa de T2 que mejor permite realizar un conteo aproximado
 EMB,T3,1,-1,TNTC,Presencia de crecimiento extendido que dificulta diferenciar colonias individuales
 EMB,T3,1,-2,No confiable,Se observan algunas estructuras pero no es posible establecer con seguridad un número de colonias
 EMB,T3,1,-3,169,Colonias relativamente separadas adecuada para una estimación aproximada
-SS,CONTROL,1,,0,
+SS,CONTROL,1,,0,Sin colonias evidentes
 SS,T1,1,-1,183,Colonias numerosas con zonas de crecimiento confluente
 SS,T1,2,-1,137,	No permite un conteo confiable de colonias individuales
 SS,T1,3,-1,76,Crecimiento confluente que dificulta la diferenciación exacta de colonias
