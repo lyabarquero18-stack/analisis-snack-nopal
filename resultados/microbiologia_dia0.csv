@@ -1,0 +1,4 @@
+tratamiento,ecoli_presuntivo,crecimiento_EMB_UFC_g,nota_crecimiento,salmonella,cumple_ecoli,cumple_salm
+T1,< 10^2 UFC/g (sin colonias típicas),> 2.5e+06,TNTC en todas las placas leídas (valor mínimo),Presencia presuntiva/25 g (pendiente de confirmación),True,False
+T2,< 10^2 UFC/g (sin colonias típicas),2.30e+05,estimado (< 25 colonias en la placa),Presencia presuntiva/25 g (pendiente de confirmación),True,False
+T3,< 10^2 UFC/g (sin colonias típicas),1.69e+06,,Ausencia/25 g,True,True
