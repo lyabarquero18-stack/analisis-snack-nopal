@@ -12,7 +12,7 @@ Proyecto final de cuatrimestre. Análisis por código (Python / Google Colab) de
 - `criterios.py`: criterios del RTCA y criterios de inclusión, exclusión y eliminación.
 - `analisis.py`: funciones de cálculo (UFC/g, validación de controles, reporte presuntivo de *E. coli* y *Salmonella*, pérdida de masa).
 - `datos/`: `placas.csv`, `morfologia.csv`, `fisicoquimico.csv`, `observaciones.csv`.
-- `fotos/`: fotografías por unidad (código `T1-4-D0.jpg`, etc.).
+- `fotos/`: fotografías por unidad (código `T1-4-D0.png`, etc.).
 - `resultados/`: tablas y gráficas generadas por el código.
 - Cuaderno de Colab: `notebook_colab.ipynb` [REVISAR: súbelo al repo desde Colab con Archivo → Guardar una copia en GitHub].
 
