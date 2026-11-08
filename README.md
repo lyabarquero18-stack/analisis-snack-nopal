@@ -19,7 +19,7 @@ Proyecto final de cuatrimestre. Análisis por código (Python / Google Colab) de
 ## Cómo ejecutarlo
 1. Abrir el cuaderno en Google Colab.
 2. Clonar el repositorio e instalar dependencias (`pip install -r requirements.txt`).
-3. Ejecutar las celdas en orden: microbiología, fisicoquímico y color de fotos.
+3. Ejecutar las celdas en orden: microbiología y fisicoquímico.
 
 ## Criterios codificados
 - **Clasificación:** RTCA 67.04.50:17, grupo 4, subgrupo 4.2.2 (frutas y vegetales desecados o deshidratados), tipo B.
