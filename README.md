@@ -30,13 +30,11 @@ Proyecto final de cuatrimestre. Análisis por código (Python / Google Colab) de
 - **Eliminación de datos o corridas:** crecimiento en controles de esterilidad o diluyente, muestra perdida o sin etiqueta, temperatura de almacenamiento fuera de rango.
 
 ## Resultados microbiológicos (día 0, presuntivos)
-[REVISAR: copia aquí los valores de `resultados/microbiologia_dia0.csv`. Con mis datos esperaba lo siguiente; si tu tabla difiere, usa la tuya.]
 
-| Tratamiento | *E. coli* presuntivo (EMB) | Crecimiento total en EMB | *Salmonella* (SS) |
-|---|---|---|---|
-| T1 | < 10² UFC/g (sin colonias típicas) | > 2.5 × 10⁶ UFC/g (TNTC) | Presuntiva, sin confirmar |
-| T2 | < 10² UFC/g (sin colonias típicas) | ≈ 2.3 × 10⁵ UFC/g (estimado) | Presuntiva, sin confirmar |
-| T3 | < 10² UFC/g (sin colonias típicas) | ≈ 1.7 × 10⁶ UFC/g | Presuntiva, sin confirmar |
+tratamiento,ecoli_presuntivo,crecimiento_EMB_UFC_g,nota_crecimiento,salmonella,cumple_ecoli,cumple_salm
+T1,< 10^2 UFC/g (sin colonias típicas),> 2.5e+06,TNTC en todas las placas leídas (valor mínimo),Presencia presuntiva/25 g (pendiente de confirmación),True,False
+T2,< 10^2 UFC/g (sin colonias típicas),2.30e+05,estimado (< 25 colonias en la placa),Presencia presuntiva/25 g (pendiente de confirmación),True,False
+T3,< 10^2 UFC/g (sin colonias típicas),1.69e+06,,Ausencia/25 g,True,True
 
 Interpretación: hubo crecimiento abundante en todos los tratamientos, incluido el control sin recubrimiento, sin diferencias atribuibles al recubrimiento. En EMB ninguna colonia mostró el brillo verde metálico típico de *E. coli*. En SS todas las placas tuvieron colonias con puntos negros (producción de H₂S), compatibles con *Salmonella* pero también con otros géneros; sin confirmación bioquímica el resultado se reporta como presuntivo y no como positivo confirmado.
 
