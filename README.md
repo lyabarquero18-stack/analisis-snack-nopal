@@ -37,6 +37,7 @@ T2,< 10^2 UFC/g (sin colonias típicas),2.30e+05,estimado (< 25 colonias en la p
 T3,< 10^2 UFC/g (sin colonias típicas),1.69e+06,,Ausencia/25 g,True,True
 
 Interpretación: hubo crecimiento abundante en todos los tratamientos, incluido el control sin recubrimiento, sin diferencias atribuibles al recubrimiento. En EMB ninguna colonia mostró el brillo verde metálico típico de *E. coli*. En SS todas las placas tuvieron colonias con puntos negros (producción de H₂S), compatibles con *Salmonella* pero también con otros géneros; sin confirmación bioquímica el resultado se reporta como presuntivo y no como positivo confirmado.
+Se exploró además una medición automática del cambio de color (ΔE en el espacio CIELAB respecto al día 0), pero se descartó: el porcentaje de píxeles asignados al snack frente al fondo varió entre 26 y 100 % según la fotografía y los valores no concordaron con la evaluación visual (por ejemplo, ΔE de 28 en una muestra sin cambio de color visible). El cambio de color se reporta únicamente con la escala ordinal visual (0 a 2).
 
 ## Resultados fisicoquímicos y visuales
 [REVISAR: describe las tendencias de `resultados/ph.png`, `resultados/perdida_masa_pct.png` y `resultados/deltaE_color.png`, e indica hasta qué día llegan los datos.]
@@ -60,7 +61,7 @@ El código propio implementa exactamente el protocolo de laboratorio: fórmula U
 - Agar EMB en lugar de TBX para *E. coli* (método de referencia): el resultado es presuntivo y la comparación con el RTCA es orientativa.
 - Agar SS y caldo nutritivo no selectivo en lugar de XLD/HE/BS con enriquecimiento selectivo; sin confirmación bioquímica (TSI, LIA, urea).
 - Con crecimiento abundante o confluente, otras colonias pudieron enmascarar colonias típicas.
-- El análisis de color depende de que las fotos tengan luz, fondo y distancia constantes.
+- El análisis automático de color no fue confiable por la variabilidad de iluminación y fondo en las fotografías; el color se evaluó visualmente con una escala ordinal por un solo observador.
 
 ## Alcance
 Los resultados corresponden a un ejercicio académico. No constituyen un dictamen de registro sanitario, que requiere un laboratorio acreditado y la autoridad competente (MINSA/AUPSA).
