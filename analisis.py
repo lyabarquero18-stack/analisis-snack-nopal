@@ -69,6 +69,7 @@ def reportar_salmonella(sub):
     hay = sub["tipica"].astype(str).str.strip().str.lower().isin(SI).any()
     if hay:
         return {"resultado": "Presencia presuntiva/25 g (pendiente de confirmación)", "cumple_limite": False}
+    return {"resultado": "Ausencia presuntiva/25 g (método modificado, sin confirmación)", "cumple_limite": True}
     return {"resultado": "Ausencia/25 g", "cumple_limite": True}
 
 def delta_masa(p0, pt):
