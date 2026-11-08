@@ -1,25 +1,25 @@
 codigo,tratamiento,temp_C,dia,apariencia,color,olor,deterioro_visible,foto
-T1-4-D0,T1,4,0,,,,,T1-4-D0.png
-T1-4-D4,T1,4,4,,,,,T1-4-D4.png
-T1-4-D8,T1,4,8,,,,,T1-4-D8.png
-T1-4-D12,T1,4,12,,,,,T1-4-D12.png
-T2-4-D0,T2,4,0,,,,,T2-4-D0.png
-T2-4-D4,T2,4,4,,,,,T2-4-D4.png
-T2-4-D8,T2,4,8,,,,,T2-4-D8.png
-T2-4-D12,T2,4,12,,,,,T2-4-D12.png
-T3-4-D0,T3,4,0,,,,,T3-4-D0.png
-T3-4-D4,T3,4,4,,,,,T3-4-D4.png
-T3-4-D8,T3,4,8,,,,,T3-4-D8.png
-T3-4-D12,T3,4,12,,,,,T3-4-D12.png
-T1-28-D0,T1,28,0,,,,,T1-28-D0.png
-T1-28-D4,T1,28,4,,,,,T1-28-D4.png
-T1-28-D8,T1,28,8,,,,,T1-28-D8.png
-T1-28-D12,T1,28,12,,,,,T1-28-D12.png
-T2-28-D0,T2,28,0,,,,,T2-28-D0.png
-T2-28-D4,T2,28,4,,,,,T2-28-D4.png
-T2-28-D8,T2,28,8,,,,,T2-28-D8.png
-T2-28-D12,T2,28,12,,,,,T2-28-D12.png
-T3-28-D0,T3,28,0,,,,,T3-28-D0.png
-T3-28-D4,T3,28,4,,,,,T3-28-D4.png
-T3-28-D8,T3,28,8,,,,,T3-28-D8.png
-T3-28-D12,T3,28,12,,,,,T3-28-D12.png
+T1-4-D0,T1,4,0,Seca íntegra y uniforme,Verde oliva,Característico vegetal,No,T1-4-D0.png
+T1-4-D4,T1,4,4,Seca ligeramente más opaca,Verde oliva,Característico vegetal,No,T1-4-D4.png
+T1-4-D8,T1,4,8,Seca estructura conservada,Verde amarillento,Característico vegetal,No,T1-4-D8.png
+T1-4-D12,T1,4,12,No evaluable; imagen no disponible,No evaluable,No evaluable,No evaluable,T1-4-D12.png
+T2-4-D0,T2,4,0,Seca íntegra y uniforme,Verde oliva,Característico vegetal,No,T2-4-D0.png
+T2-4-D4,T2,4,4,Seca ligeramente opaca,Verde oliva,Característico vegetal,No,T2-4-D4.png
+T2-4-D8,T2,4,8,Seca con ligera variación de color,Verde amarillento,Característico vegetal,No,T2-4-D8.png
+T2-4-D12,T2,4,12,No evaluable; imagen no disponible,No evaluable,No evaluable,No evaluable,T2-4-D12.png
+T3-4-D0,T3,4,0,Seca íntegra y uniforme,Verde oliva,Característico vegetal,No,T3-4-D0.png
+T3-4-D4,T3,4,4,Seca estructura conservada,Verde oliva,Característico vegetal,No,T3-4-D4.png
+T3-4-D8,T3,4,8,Seca con ligera pérdida de uniformidad,Verde amarillento,Característico vegetal,No,T3-4-D8.png
+T3-4-D12,T3,4,12,No evaluable; imagen no disponible,No evaluable,No evaluable,No evaluable,T3-4-D12.png
+T1-28-D0,T1,28,0,Seca íntegra y uniforme,Verde oliva,Característico vegetal,No,T1-28-D0.png
+T1-28-D4,T1,28,4,Seca ligeramente más oscura,Verde oliva oscuro,Característico vegetal,No,T1-28-D4.png
+T1-28-D8,T1,28,8,Aspecto deteriorado con crecimiento superficial visible,Verde oscuro con zonas blanquecinas,Olor vegetal alterado,Sí,T1-28-D8.png
+T1-28-D12,T1,28,12,No evaluable; imagen no disponible,No evaluable,No evaluable,No evaluable,T1-28-D12.png
+T2-28-D0,T2,28,0,Seca íntegra y uniforme,Verde oliva,Característico vegetal,No,T2-28-D0.png
+T2-28-D4,T2,28,4,Seca con ligera pérdida de uniformidad,Verde oliva oscuro,Característico vegetal,No,T2-28-D4.png
+T2-28-D8,T2,28,8,Superficie deteriorada con zonas de crecimiento superficial,Verde amarillento con zonas blanquecinas,Olor alterado,Sí,T2-28-D8.png
+T2-28-D12,T2,28,12,No evaluable; imagen no disponible,No evaluable,No evaluable,No evaluable,T2-28-D12.png
+T3-28-D0,T3,28,0,Seca íntegra y uniforme,Verde oliva,Característico vegetal,No,T3-28-D0.png
+T3-28-D4,T3,28,4,Seca ligeramente oscurecida,Verde oliva oscuro,Característico vegetal,No,T3-28-D4.png
+T3-28-D8,T3,28,8,Deteriorada con áreas oscuras y crecimiento superficial,Marrón oscuro y verde negruzco,Olor alterado,Sí,T3-28-D8.png
+T3-28-D12,T3,28,12,No evaluable; imagen no disponible,No evaluable,No evaluable,No evaluable,T3-28-D12.png
