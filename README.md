@@ -67,4 +67,4 @@ El código propio implementa exactamente el protocolo de laboratorio: fórmula U
 Los resultados corresponden a un ejercicio académico. No constituyen un dictamen de registro sanitario, que requiere un laboratorio acreditado y la autoridad competente (MINSA/AUPSA).
 
 ## Uso de herramientas de IA
-Se utilizó Claude (Anthropic) como asistente para estructurar el repositorio, redactar y depurar el código en Python, buscar herramientas existentes en GitHub y PyPI, y redactar este README. El diseño experimental, el trabajo de laboratorio, el registro de datos y su revisión fueron realizados por la autora.
+Se utilizó Claude (Anthropic) como asistente para estructurar el repositorio, redactar y depurar el código en Python, buscar herramientas existentes en GitHub y PyPI, y redactar este README. El diseño experimental, el trabajo de laboratorio, el registro de datos y su revisión fueron realizados por los autores.
